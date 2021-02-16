@@ -16,6 +16,6 @@
 * [Figma](https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/Proffy-Web)
 
 <p align="center">
-  ![teste](search.gif)
+  ![teste](gif-spider.gif)
 </p>
 
