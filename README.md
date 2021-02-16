@@ -15,7 +15,7 @@
 
 * [Figma](https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/Proffy-Web)
 
-<p align="center">
-  ![teste](gif-spider.gif)
-</p>
+![teste](gif-spider.gif)
+
+
 
