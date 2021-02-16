@@ -1,0 +1,22 @@
+.logo-spiderman-item{
+    fill: transparent;
+    animation: logo-spiderman-item 10s ease infinite alternate;
+}
+
+@keyframes logo-spiderman-item{
+    0%{
+        stroke-width: 0;
+        stroke-dasharray: 1 100;
+        fill:transparent;
+    }
+
+    25%{
+        stroke-width: 1;
+        stroke-dasharray: 100 0;
+    }
+
+    60%, 100%{
+        stroke-width: 0;
+        fill: $white-dark;
+    }
+}
