@@ -3,7 +3,7 @@
 ![teste](gif-spider.gif)
 
 ### :bulb:	Sobre o projeto
-<p>Esse projeto foi desenvolvido na semana do FrontWeek do Násser Yousef Ali.</p>
+<p>Esse projeto foi desenvolvido na semana do FrontWeek.</p>
 
 ### :heavy_check_mark: Principais tecnologias utilizadas
 
