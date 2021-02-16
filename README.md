@@ -1,5 +1,7 @@
 <h1 align="center"> #FrontWeek - Projeto Spider Man</h1>
 
+![teste](gif-spider.gif)
+
 ### :bulb:	Sobre o projeto
 <p>Esse projeto foi desenvolvido na semana do FrontWeek do Násser Yousef Ali.</p>
 
@@ -14,8 +16,3 @@
 ### :art: Layout
 
 * [Figma](https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/Proffy-Web)
-
-![teste](gif-spider.gif)
-
-
-
