@@ -1,4 +1,4 @@
-<h1 align="center"> #FrontWeek - Projeto Spider Man:spider: </h1>
+<h1 align="center"> Projeto Spider Man:spider: </h1>
 
 ![teste](gif-spider.gif)
 
